@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj",
+        "projectName": "Agenda_DotNet48",
+        "projectPath": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj",
+        "projectName": "Agenda_DotNet48_Tests",
+        "projectPath": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj",
+        "packagesPath": "C:\\Users\\Fabio Souza\\.nuget\\packages\\",
+        "outputPath": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fabio Souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj": {
+                "projectPath": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "Microsoft.Testing.Extensions.CodeCoverage": {
+              "target": "Package",
+              "version": "[17.12.6, )"
+            },
+            "Microsoft.Testing.Extensions.TrxReport": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

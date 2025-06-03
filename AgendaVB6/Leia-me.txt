@@ -1,0 +1,4 @@
+Codigo fonte de uma agenda eletronica utilizando banco de dados com acesso direto com opcoes de pesquisa por nome inciado com tal letra, nome completo, alem de outras opcoes como inclusão e exclusão de nomes, imprimir, etc.
+
+Criado por: Ramon Lourenco
+E-mail: ramon117@bol.com.br

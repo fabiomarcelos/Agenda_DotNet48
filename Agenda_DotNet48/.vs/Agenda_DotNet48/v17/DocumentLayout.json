@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B017E56-29E6-470F-9269-3CE1401A8095}|..\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj|c:\\poc_migracao_vb6\\agenda_dotnet48_tests\\agendaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Agenda_DotNet48||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B017E56-29E6-470F-9269-3CE1401A8095}|..\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj|c:\\poc_migracao_vb6\\agenda_dotnet48_tests\\agenda_dotnet48_tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B017E56-29E6-470F-9269-3CE1401A8095}|..\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj|c:\\poc_migracao_vb6\\agenda_dotnet48_tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|C:\\POC_Migracao_VB6\\Agenda_DotNet48\\agendamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|solutionrelative:agendamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|C:\\POC_Migracao_VB6\\Agenda_DotNet48\\agenda.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|solutionrelative:agenda.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|C:\\POC_Migracao_VB6\\Agenda_DotNet48\\agenda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|solutionrelative:agenda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B017E56-29E6-470F-9269-3CE1401A8095}|..\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj|c:\\poc_migracao_vb6\\agenda_dotnet48_tests\\agendatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|C:\\POC_Migracao_VB6\\Agenda_DotNet48\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{74ADB55E-F5E7-4DBA-B29C-9C1A2E0C9261}|Agenda_DotNet48.csproj|solutionrelative:site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agenda_DotNet48",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj",
+              "RelativeDocumentMoniker": "Agenda_DotNet48.csproj",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda_DotNet48.csproj",
+              "RelativeToolTip": "Agenda_DotNet48.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-03T19:03:50.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agenda_DotNet48_Tests",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj",
+              "RelativeToolTip": "..\\Agenda_DotNet48_Tests\\Agenda_DotNet48_Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T19:03:42.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgendaModel.cs",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\AgendaModel.cs",
+              "RelativeDocumentMoniker": "AgendaModel.cs",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\AgendaModel.cs",
+              "RelativeToolTip": "AgendaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:56:31.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgendaServiceTests.cs",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\AgendaServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\Agenda_DotNet48_Tests\\AgendaServiceTests.cs",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\AgendaServiceTests.cs",
+              "RelativeToolTip": "..\\Agenda_DotNet48_Tests\\AgendaServiceTests.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:54:38.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AgendaTests.cs",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\AgendaTests.cs",
+              "RelativeDocumentMoniker": "..\\Agenda_DotNet48_Tests\\AgendaTests.cs",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\AgendaTests.cs",
+              "RelativeToolTip": "..\\Agenda_DotNet48_Tests\\AgendaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:49:52.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\Agenda_DotNet48_Tests\\Test1.cs",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48_Tests\\Test1.cs",
+              "RelativeToolTip": "..\\Agenda_DotNet48_Tests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:47:09.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Agenda.aspx",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda.aspx",
+              "RelativeDocumentMoniker": "Agenda.aspx",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda.aspx",
+              "RelativeToolTip": "Agenda.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T18:24:02.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Site.Master",
+              "RelativeDocumentMoniker": "Site.Master",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Site.Master",
+              "RelativeToolTip": "Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T18:30:13.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Agenda.aspx.cs",
+              "DocumentMoniker": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda.aspx.cs",
+              "RelativeDocumentMoniker": "Agenda.aspx.cs",
+              "ToolTip": "C:\\POC_Migracao_VB6\\Agenda_DotNet48\\Agenda.aspx.cs",
+              "RelativeToolTip": "Agenda.aspx.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA7wGcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T02:12:30.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
